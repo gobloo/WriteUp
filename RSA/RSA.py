@@ -1,7 +1,7 @@
 from Crypto.Util.number import inverse, long_to_bytes
 print("RSA decoder : ")
 
-#Change the value depend your message you want to decryt
+#Change the value depend the message you want to decryt
 n = 1584586296183412107468474423529992275940096154074798537916936609523894209759157543
 e = 65537 
 # c : CYPHER that you need to decrypt
