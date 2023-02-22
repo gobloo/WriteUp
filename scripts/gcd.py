@@ -6,4 +6,4 @@ def gcd(a,b):
         else:
                 return gcd(b, a%b)
 
-print(gcd(a, b)) # You only need to change a, b here and run the script 
+print(gcd(a, b)) # You only need to change a, b here and run the script
